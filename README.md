@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+🟪technologies used in this project are mentioned below </br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+⚡React.js </br>
+⚡Typscript </br>
+⚡Material UI </br>
+⚡Fetch API </br>
+⚡React style component </br> 
+
+Live Demo of this Project👇👇👇👇 </br>
+https://wary-airplane.surge.sh/
+
+Screen Shot of this Project👇👇👇👇
+![image](https://user-images.githubusercontent.com/71975211/143201781-7e8e3e51-11b7-4c9b-b9f6-72e2e14ae05e.png)
+![image](https://user-images.githubusercontent.com/71975211/143201829-2908921f-0d38-4e43-8c77-eaa313b058a4.png)
+![image](https://user-images.githubusercontent.com/71975211/143201896-1b25b17b-7cc4-4ab0-837a-ae9d2bbdf364.png)
+![image](https://user-images.githubusercontent.com/71975211/143201937-3f01c5cd-0dfd-4075-aec3-1769f5628aa5.png)
+
+
+
 
 ## Available Scripts
 
